@@ -1,1 +1,1 @@
-这是一个test文件，我用来学习git 撤销方面的操作的;我现在要开始操作了。
+aaaaaasdsadasfjdshfldshlkfalsdjasljdlasd这是一个test文件，我用来学习git 撤销方面的操作的;我现在要开始操作了。
