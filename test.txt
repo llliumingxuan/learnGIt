@@ -1,1 +1,1 @@
-这是一个test文件，我用来学习git 撤销方面的操作的 经过一次暂存区的清除 我用--amend来修改了这次commit 然后用revert的方式先回答这个节点。xxxxxxx 
+这是一个test文件，我用来学习git 撤销方面的操作的 经过一次暂存区的清除 我用--amend来修改了这次commit 然后用revert的方式先回答这个节点。 
